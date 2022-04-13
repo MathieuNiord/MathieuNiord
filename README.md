@@ -19,7 +19,7 @@
 
 ## Most used
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathieuniord&show_icons=true&theme=dark&count_private=true&langs_count=5" alt="mathieuniord" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathieuniord&show_icons=true&theme=dark&count_private=true&langs_count=6" alt="mathieuniord" /></p>
 
 <br/>
 
