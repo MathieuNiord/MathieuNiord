@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on [Moodle project](https://github.com/MathieuNiord/Moodle)
 
-- 🌱 I’m currently learning **Flutter**
-
 - 👨‍💻 All of my projects are available at [https://github.com/MathieuNiord](https://github.com/MathieuNiord)
-
-- 💬 Ask me about **OCaml, software design**
 
 - 📫 How to reach me **mathieu.niord@gmail.com**
 
