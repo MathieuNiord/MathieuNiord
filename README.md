@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25">, I'm Mathieu, a Software Engineer student</h1>
 
-- 🔭 &nbsp; I’m currently working on **DiscordJS**
+- 🔭 &nbsp; I’m currently working on **Symfony, WebGL & Machine Learning**
 - 🎓 &nbsp; I'm currently studying Computer Science and Mathematics at the **University of Poitiers**
 - 👨‍💻 &nbsp; All of my projects are available at [https://github.com/MathieuNiord](https://github.com/MathieuNiord)
 - 📫 &nbsp; How to reach me &nbsp; <a href="mailto:mathieu.niord@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="mathieu.niord@gmail.com" height="20" width="20"/></a> &nbsp; <a href="https://linkedin.com/in/mathieu niord" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathieu niord" height="20" width="20"/></a> &nbsp; <a href="https://discord.gg/theMathLaMenace#1690" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png" alt="theMathLaMenace#1690" height="20" width="20"/></a>
