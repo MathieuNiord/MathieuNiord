@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25">, I'm Mathieu, a Software Engineer</h1>
 
 - 🎓 &nbsp; I have just obtained my **Master's degree** in **Computer Science**
-- 🧠 &nbsp; I’m currently working on **ReactJS & Machine Learning**
+- 🧠 &nbsp; I’m currently working on **React Native**
 
 ## Skills
 
